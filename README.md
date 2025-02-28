@@ -25,3 +25,9 @@ Vous y trouverez les éléments suivants :
  **Training** : construction d'un modèle MLP avec CustomLoss et évaluation
 
 **Prédict** : prédiction des consommations et export
+
+## Fichiers
+
+train.py : contient tout le préprocessing et l'entrainement du modèle
+models.py : le modele 
+predict.py : code permettant de créer le fichier de soumission
