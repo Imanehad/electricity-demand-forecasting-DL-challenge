@@ -29,5 +29,5 @@ Vous y trouverez les éléments suivants :
 ## Fichiers
 
 train.py : contient tout le préprocessing et l'entrainement du modèle  
-models.py : le modele  
+models.py : le modele (mlp + custom loss)  
 predict.py : code permettant de créer le fichier de soumission  
