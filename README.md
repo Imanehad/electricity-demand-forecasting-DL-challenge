@@ -19,8 +19,8 @@ Vous y trouverez les éléments suivants :
   - Features engineering: 
 -ajout de variables temporelles (weekdays, weekend, vacances scolaires par zones, saisons...)
 -ajout de variables de température par régions, par métropoles et moyenne pondérée pour la France
- -ajout de variable météo (vitesse et direction du vent, pression aux stations et température minimale du sol)
-  - Data cleaning: gestion des NaNs
+-ajout de variable météo (vitesse et direction du vent, pression aux stations et température minimale du sol)
+   - Data cleaning: gestion des NaNs
 
  **Training** : construction d'un modèle MLP avec CustomLoss et évaluation
 
